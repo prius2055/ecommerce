@@ -1,0 +1,17 @@
+.category {
+  display: flex;
+  flex-direction: column;
+}
+
+.category-name{
+  padding-top: 20px;
+  padding-bottom: 30px;
+  text-transform: capitalize;
+  font-size: 32px;
+}
+
+.category-list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
