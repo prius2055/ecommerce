@@ -2,7 +2,7 @@
   "name": "scandiwebtest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://prius2055.github.io/e-commerce",
+  "homepage": "https://prius2055.github.io/ecommerce",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
