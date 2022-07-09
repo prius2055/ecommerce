@@ -1,12 +1,13 @@
-# An E-commerce website created with ReactJs
+# An e-commerce website created with ReactJs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can checkout the website using the URL:
+[https://prius2055.github.io/ecommerce/]
 
-## Available Scripts
+## Using the API enpoint
 
-In the project directory, you can run:
+The project was built using data from a GraphQL endpoint.
 
-### `npm start`
+### How to use the GraphQL endpoint
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
