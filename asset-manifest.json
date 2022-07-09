@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.9ab4d08d.css",
+    "main.js": "/ecommerce/static/js/main.fe71c42c.js",
+    "static/media/dollar.svg": "/ecommerce/static/media/dollar.dd66f65a2b0fa014ffa35fceca935bfc.svg",
+    "index.html": "/ecommerce/index.html",
+    "static/media/cart.svg": "/ecommerce/static/media/cart.a13d08f9cdd92d18d3a7c1fd354e6b6b.svg",
+    "static/media/shoppingBag.svg": "/ecommerce/static/media/shoppingBag.72ab068c385688e2b1cee6c80abfc58c.svg",
+    "static/media/circleRight.svg": "/ecommerce/static/media/circleRight.5d452ddc82ddc4b76d938a087ed62468.svg",
+    "static/media/circleLeft.svg": "/ecommerce/static/media/circleLeft.84b232316f28ac40efb959e3f3109bc2.svg",
+    "static/media/arrowUp.svg": "/ecommerce/static/media/arrowUp.599dbb857dbf703e14bb0e76d87d3f33.svg",
+    "static/media/arc.svg": "/ecommerce/static/media/arc.224f4f143849e9f966af6f84ae4597b1.svg",
+    "static/media/arrowDown.svg": "/ecommerce/static/media/arrowDown.766d7b11f183f77a1e40c47ea18dd7ee.svg",
+    "main.9ab4d08d.css.map": "/ecommerce/static/css/main.9ab4d08d.css.map",
+    "main.fe71c42c.js.map": "/ecommerce/static/js/main.fe71c42c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ab4d08d.css",
+    "static/js/main.fe71c42c.js"
+  ]
+}
